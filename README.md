@@ -1,1 +1,1 @@
-# seoul-subway-air-pollution_team-project
+# 프로젝트 명: 서울시 지하철 역사내 공기질 사전 조사 및 공기청정기 마케팅 전략 수립

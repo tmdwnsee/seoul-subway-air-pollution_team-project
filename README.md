@@ -19,6 +19,7 @@
 - 데이터 분석: pandas, numpy, matplotlib, seaborn
 - 머신러닝 패키지: statsmodels
 - 머신러닝 알고리즘: ARIMA, SARIMAX
+- LLM: ChatGPT, Gemini
 
 ### 분석내용:
 #### 가설: '공기청정기 설치 후 역사내 공기질이 좋아졌을 것이다.'
